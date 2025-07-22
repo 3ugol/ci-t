@@ -1,5 +1,5 @@
 Status of Last Deployment:<br>
-<img src="https://github.com/3ugol/ci-t/workflows/Test_CI/badge.svg?branch=main"><br>
+[![Test_CI](https://github.com/3ugol/ci-t/actions/workflows/main.yml/badge.svg)](https://github.com/3ugol/ci-t/actions/workflows/main.yml)
 
 ## Manual 
 
