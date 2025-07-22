@@ -1,5 +1,5 @@
 Status of Last Deployment:<br>
-<img src="https://github.com/3ugol/ci-t/new/Test_CI/badge.svg?branch=master"><br>
+<img src="https://github.com/3ugol/ci-t/new/Test_CI/badge.svg?branch=main"><br>
 
 ## Manual 
 
